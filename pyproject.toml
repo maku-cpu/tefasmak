@@ -4,9 +4,6 @@ version = "1.0.0"
 description = "TEFAS (Türkiye Elektronik Fon Alım Satım Platformu) için modern Python sarmalayıcısı — Akamai TSPD bypass için curl_cffi TLS impersonation kullanır."
 readme = "README.md"
 license = { text = "MIT" }
-authors = [
-    { name = "Mehmet Ali Küçükçeran", email = "makucukceran@gmail.com" },
-]
 keywords = ["tefas", "fon", "yatirim", "turkey", "finance", "mutual-fund", "etf"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",

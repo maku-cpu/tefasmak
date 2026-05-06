@@ -1,9 +1,5 @@
 # tefasmak
 
-[![PyPI](https://img.shields.io/pypi/v/tefasmak.svg)](https://pypi.org/project/tefasmak/)
-[![Python](https://img.shields.io/pypi/pyversions/tefasmak.svg)](https://pypi.org/project/tefasmak/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 **TEFAS** (Türkiye Elektronik Fon Alım Satım Platformu) için modern Python sarmalayıcısı.
 
 Yeni TEFAS sitesinin (Next.js, Nisan 2026+) public JSON endpoint'lerine erişir.
