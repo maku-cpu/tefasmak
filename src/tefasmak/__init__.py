@@ -14,7 +14,7 @@ Hızlı kullanım:
     portfoy = fon_portfoy_dagilimi("IPB")
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 from .api import (
     # Hata sınıfları
